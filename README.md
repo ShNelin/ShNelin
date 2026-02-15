@@ -1,3 +1,5 @@
+<img src="helloWorld.jpg">
+
 ## Hi there 👋
 <h2 align="center">Welcome to my GitHub profile</h2>
 
