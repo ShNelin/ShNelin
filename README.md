@@ -1,9 +1,9 @@
 # Hi, I'm Nelin
 
-🎓 3rd-year Computer Science student @ University of Economics – Varna  
+🎓 3rd-year Computer Science student at University of Economics – Varna  
 💻 Exploring code, building projects & learning every day  
 🔐 Curious about Cybersecurity and ethical hacking  
-🌱 Learning new languages and frameworks  
+ 
 
 ---
 
@@ -26,6 +26,31 @@
 </p>
 
 
+
+
+---
+
+## 🎯 Projects 
+
+🐾 Veterinary Clinic Management System
+C#, Oracle SQL, Relational Database Design
+- Designed and implemented a fully normalized relational database
+- Created table relationships with proper primary and foreign keys
+- Implemented CRUD operations through a C# user interface
+- Added input validation to ensure data integrity
+- Implemented search and filtering functionality
+- Connected Oracle database with the application backend
+<p><strong>Key skills:</strong> database architecture, backend programing, data validation, UI integration</p>
+<br> 
+
+🏦 Banking Management System
+Java, Apache NetBeans, SQL
+- ndependently designed relational database structure
+- Implemented secure CRUD operations using prepared statements
+- Developed money transfer logic and transactional operations
+- Built role-based access control 
+- Integrated Java backend with relational database
+<p><strong>Key skills:</strong> backend development, SQL, transaction logic, user authorization</p>
 
 ---
 
@@ -60,8 +85,6 @@
   
 </p>
 
-<p align="left">
-</p>
 
 
 
