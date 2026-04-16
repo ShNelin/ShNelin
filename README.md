@@ -90,9 +90,9 @@ Currently, I’m expanding my knowledge in cybersecurity, learning how systems c
 ##  Connect with Me
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/nelin-tirol-724517387](https://www.linkedin.com/in/nelin-tirol-724517387?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+ <a href="https://www.linkedin.com/in/nelin-tirol-724517387">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
   
 </p>
